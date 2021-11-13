@@ -1,0 +1,35 @@
+{
+  "name": "@nodestrap/borders",
+  "version": "4.0.0",
+  "description": "A border & border-radius management system for web components using css variables (css custom properties).",
+  "main": "dist/borders.js",
+  "types": "dist/borders.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodestrap/borders.git"
+  },
+  "keywords": [
+    "borders",
+    "radius",
+    "radiuses",
+    "css",
+    "stylesheet",
+    "config",
+    "configuration",
+    "variables",
+    "property"
+  ],
+  "author": "heymarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodestrap/borders/issues"
+  },
+  "homepage": "https://github.com/nodestrap/borders#readme",
+  "dependencies": {
+    "@cssfn/css-config": "^1.0.0",
+    "@cssfn/css-types": "^1.0.1"
+  }
+}
