@@ -1,5 +1,5 @@
 import type { Prop, Cust } from '@cssfn/css-types';
-import * as radius from './borders-radiuses';
+import * as radius from './borders-radiuses.js';
 declare const radiuses: import("@cssfn/css-config").Refs<{
     default: radius.BorderRadius;
     none: radius.BorderRadius;

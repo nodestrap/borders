@@ -1,6 +1,6 @@
 import createCssConfig from '@cssfn/css-config'; // Stores & retrieves configuration using *css custom properties* (css variables)
 // nodestrap utilities:
-import * as radius from './borders-radiuses';
+import * as radius from './borders-radiuses.js';
 const radiuses = radius.radiuses;
 export { radiuses, radius };
 export { radiuses as borderRadiuses, radius as borderRadius };

@@ -1,6 +1,6 @@
 {
   "name": "@nodestrap/borders",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "A border & border-radius management system for web components using css variables (css custom properties).",
   "type": "module",
   "main": "dist/borders.js",
