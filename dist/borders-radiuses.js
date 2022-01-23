@@ -18,3 +18,5 @@ export const [cssProps, cssDecls, cssVals, cssConfig] = createCssConfig(() => {
     };
 }, { prefix: 'bd-rd' });
 export { cssProps as radiuses, cssProps as default };
+// setup css variables:
+cssProps.default = cssProps.md;

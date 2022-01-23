@@ -1,6 +1,6 @@
 {
   "name": "@nodestrap/borders",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "A border & border-radius management system for web components using css variables (css custom properties).",
   "type": "module",
   "main": "dist/borders.js",
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/nodestrap/borders#readme",
   "dependencies": {
-    "@cssfn/css-config": "^1.0.1",
-    "@cssfn/css-types": "^1.0.2"
+    "@cssfn/css-config": "^1.0.4",
+    "@cssfn/css-types": "^1.0.4"
   }
 }
